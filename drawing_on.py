@@ -42,7 +42,7 @@ def start_cam():
     cv2.destroyAllWindows()
 
 start_cam()
-#C:\Users\gtx\miniconda3\envs\cv10\python.exe
+
 
 
 
